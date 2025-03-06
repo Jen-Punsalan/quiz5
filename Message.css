@@ -1,0 +1,17 @@
+/* src/styles/Message.css */
+.message {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
+  .message.success {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .message.error {
+    background-color: #f44336;
+    color: white;
+  }
+  
